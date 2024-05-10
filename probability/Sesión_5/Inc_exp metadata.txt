@@ -1,0 +1,12 @@
+This Dataset contains the income expenditure of the individuals having a family
+
+No. Column Name 	            Description
+1. 	Mthly_HH_Income 	        Monthly Household Income
+2. 	Mthly_HH_Expense 	        Monthly Household Expense (Dependent Variable)
+3. 	No_of_Fly_Members 	        Number of Family Members
+4. 	Emi_or_Rent_Amt 	        Monthly EMI or Rent Amount (The EMI is the fixed amount you'll need to repay each month to the lender. )
+5. 	Annual_HH_Income 	        Annual Household Income
+6. 	Highest_Qualified_Member 	Education Level of the Highest Qualified Member in the household
+7. 	No_of_Earning_Members 	    Number of Earning Members
+
+
